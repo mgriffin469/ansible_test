@@ -1,1 +1,87 @@
 209.165.133.10
+[cdemain@opsfoyervm-pr ~]$ gh lab | grep -i sadc
+[cdemain@opsfoyervm-pr ~]$ gh lab | grep -i sadc
+66.223.254.214  CsdoSadcColoalabCpe-1
+10.249.55.164   FacAncrakbzPdu136       GcibAncLabSadcCorePdu-1
+10.249.55.165   FacAncrakbzPdu137       GcibAncLabSadcCorePdu-2
+10.249.55.167   FacAncrakbzPdu138       GcibAncLabSadcCorePdu-4
+10.175.2.22     GcibAncLabSadcA3aSw-1
+10.249.55.168   GcibAncLabSadcA3dObm-1  gcimbs.net
+10.175.2.27     GcibAncLabSadcA3dSw-1
+10.175.2.38     GcibAncLabSadcAcxRtr-1
+10.175.2.8      GcibAncLabSadcCoreFw-1
+10.175.2.9      GcibAncLabSadcCoreFw-2
+10.249.55.162   GcibAncLabSadcCoreObm-1
+10.249.55.163   GcibAncLabSadcCoreObm-2
+10.249.55.166   GcibAncLabSadcCorePdu-3
+10.175.1.1      GcibAncLabSadcCoreRtr-1
+10.175.1.2      GcibAncLabSadcCoreRtr-2
+10.175.2.6      GcibAncLabSadcCoreSrv-1
+10.175.2.2      GcibAncLabSadcCoreSw-1
+10.175.2.3      GcibAncLabSadcCoreSw-2
+10.175.2.15     GcibAncLabSadcCpeFw-6a
+10.175.2.17     GcibAncLabSadcCpeFw-6b
+10.175.5.11     GcibAncLabSadcCpeNid-1
+10.175.5.12     GcibAncLabSadcCpeNid-2
+10.175.5.13     GcibAncLabSadcCpeNid-3
+10.175.5.16     GcibAncLabSadcCpeNid-4
+10.175.3.26     GcibAncLabSadcCpeNms-1
+10.175.3.66     GcibAncLabSadcCpeNms-11
+10.175.3.74     GcibAncLabSadcCpeNms-13
+10.175.3.10     GcibAncLabSadcCpeNms-3
+10.175.3.14     GcibAncLabSadcCpeNms-4
+10.175.1.10     GcibAncLabSadcCpeRtr-1
+10.175.2.24     GcibAncLabSadcCpeRtr-10
+10.175.1.24     GcibAncLabSadcCpeRtr-11
+10.175.1.25     GcibAncLabSadcCpeRtr-12
+10.175.1.26     GcibAncLabSadcCpeRtr-13
+10.175.1.11     GcibAncLabSadcCpeRtr-2
+10.249.55.144   GcibAncLabSadcCpeRtr-21
+10.175.1.12     GcibAncLabSadcCpeRtr-3
+10.175.1.16     GcibAncLabSadcCpeRtr-4
+10.175.1.19     GcibAncLabSadcCpeRtr-6
+10.175.1.20     GcibAncLabSadcCpeRtr-7
+10.175.6.2      GcibAncLabSadcCpeSbc-2
+10.175.1.34     GcibAncLabSadcCpeSrv-11
+10.175.1.42     GcibAncLabSadcCpeSrv-12
+10.175.5.14     GcibAncLabSadcCpeSw-1
+10.175.1.35     GcibAncLabSadcCpeSw-11
+10.175.1.43     GcibAncLabSadcCpeSw-12
+10.175.5.15     GcibAncLabSadcCpeSw-2
+10.175.1.17     GcibAncLabSadcCpeSw-4
+10.175.4.66     GcibAncLabSadcCpeUps-11
+10.175.3.246    GcibAncLabSadcDevCpc-1
+10.175.2.18     GcibAncLabSadcDistAccl-1
+10.175.3.34     GcibAncLabSadcDistNms-1
+10.175.1.3      GcibAncLabSadcDistRtr-1
+10.175.1.4      GcibAncLabSadcDistRtr-2
+10.175.1.5      GcibAncLabSadcDistRtr-3
+10.175.1.6      GcibAncLabSadcDistRtr-4
+10.175.1.7      GcibAncLabSadcDistRtr-5
+10.175.1.8      GcibAncLabSadcDistRtr-6
+10.175.1.9      GcibAncLabSadcDistRtr-7
+10.175.1.21     GcibAncLabSadcDistRtr-8
+10.175.1.56     GcibAncLabSadcDistRtr-9
+10.175.1.255    GcibAncLabSadcDistVrr-1
+10.249.55.171   GcibAncLabSadcObmSw-1
+10.175.2.50     GcibAncLabSadcPanoramaSvr-1
+10.175.3.20     GcibAncLabSadcSpeedSrv-1
+10.39.33.202    GcibSadcLabSatCpeNms-1
+10.39.33.204    GcibSadcLabSatCpeRtr-1
+65.74.10.68     InetSadcBcclabdhcpSvr-1
+65.74.10.69     InetSadcBcclabdhcpSvr-2
+65.74.10.74     InetSadcBcclabmpsSvr-1
+65.74.10.75     InetSadcBcclabmpsSvr-2
+65.74.10.65     InetSadcBcclabtftpSvr-1
+209.165.137.1   InetSadcLabGw-1 InetAncSadcLabGw-1
+209.165.168.134 InetSadcLabGw-2
+10.246.120.6    Lab_Rectifier_SADC
+192.168.110.205 MacAncrakbzLabDistSw-1  SadcLabDistSw-1
+192.168.155.251 MacAncrakbzNg-8 sadclab-ng-3
+192.168.140.189 MacAncrakbzRtr-7        SadcLabRw-Rtr1
+10.249.3.58     MbsAdcLabObm-1
+10.249.57.5     MbsAdcLabSw-2
+10.249.3.62     MbsAdcLabSw-3
+10.249.57.4     MbsSadcLabSw-1
+10.249.57.100   MbsSadcLabSw-10
+192.168.127.29  OpsSadcNmsSvr-1 operations.gci.com      lab-nms1
